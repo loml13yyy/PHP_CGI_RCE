@@ -37,6 +37,7 @@ def startwith():
     """
     # 修改横幅信息
     print(logo)
+    print("writen by loml13yyy")
 
 #phpcgi('http://103.236.201.41')
 if __name__ == "__main__":
